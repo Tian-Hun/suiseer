@@ -1,0 +1,1210 @@
+{
+  "ace-of-cups": {
+    "type": "alreadyCertified",
+    "data": {
+      "blobId": "vROWRI86MyNAowVykDFF2iY_3xIaniRShdzMJeOQmko",
+      "event": {
+        "txDigest": "BxkdC77GQxeiZ1C1bHWB81Dq1dBzCGVcStktEYCq1XGM",
+        "eventSeq": "0"
+      },
+      "endEpoch": 1
+    }
+  },
+  "ace-of-pentacles": {
+    "type": "alreadyCertified",
+    "data": {
+      "blobId": "0bV5UyFL1TrJxhMwzGDPOayZVyCaZ5GuwKVOv6s1lT8",
+      "event": {
+        "txDigest": "J4q21AprzHpNXcAJLZsGBYf3M5n5iCr7ZhuwGfUDaGg",
+        "eventSeq": "0"
+      },
+      "endEpoch": 1
+    }
+  },
+  "ace-of-swords": {
+    "type": "alreadyCertified",
+    "data": {
+      "blobId": "uRTE9Wg45FrP5i7KTsveoKPLjMz7xmKkMhxENsnCGhA",
+      "event": {
+        "txDigest": "6a1jWoB6T1AnzLaq33XdptwDe1AMkUVtNKLYn1PGEWQt",
+        "eventSeq": "0"
+      },
+      "endEpoch": 1
+    }
+  },
+  "ace-of-wands": {
+    "type": "alreadyCertified",
+    "data": {
+      "blobId": "4i78_FiQSi9QiYuQuMbfLLF-9UKRajPFAledHJsI3Xs",
+      "event": {
+        "txDigest": "HiZR31UiJGvVJi256KN2BjmUcMqfAoQTf193hCBjgq61",
+        "eventSeq": "0"
+      },
+      "endEpoch": 1
+    }
+  },
+  "death": {
+    "type": "alreadyCertified",
+    "data": {
+      "blobId": "Ezld6Z62LgTX-ATq--sok6WeLJ96Mzkj9qXBFtKhQTU",
+      "event": {
+        "txDigest": "AwErb658RBq95bETwUUQ4EbvKvDRS37dDFELBY24WYd2",
+        "eventSeq": "0"
+      },
+      "endEpoch": 1
+    }
+  },
+  "eight-of-cups": {
+    "type": "alreadyCertified",
+    "data": {
+      "blobId": "teEh0hB_4yodTBJvnpT-CEZ3SpT5kMEeZ5ZECcpbPOw",
+      "event": {
+        "txDigest": "BureGfF6pWD2m6HUPcnWPyY6nFdec51TY2NzHYixhFWL",
+        "eventSeq": "0"
+      },
+      "endEpoch": 1
+    }
+  },
+  "eight-of-pentacles": {
+    "type": "alreadyCertified",
+    "data": {
+      "blobId": "bttpxeW_0cKHgJWijHlAG5QBs358YO1Rb4OXGW1S40Q",
+      "event": {
+        "txDigest": "6GSBk5G9Sch4QrbGHd38AkvyiV3eZzmGV8xBQG9VxGbf",
+        "eventSeq": "0"
+      },
+      "endEpoch": 1
+    }
+  },
+  "eight-of-swords": {
+    "type": "alreadyCertified",
+    "data": {
+      "blobId": "_ccDQxs9VeeV_-F9N8FXkd97-x7Jofey2otuYD3F0_U",
+      "event": {
+        "txDigest": "27uHjDcHo4q32hGArqEUQsJ7EVnk4yBTJKQJMLHEgypu",
+        "eventSeq": "0"
+      },
+      "endEpoch": 1
+    }
+  },
+  "eight-of-wands": {
+    "type": "alreadyCertified",
+    "data": {
+      "blobId": "OpYr554SpezykoqHjd_NuimzWENePGvsx0WrN9OHLbw",
+      "event": {
+        "txDigest": "CradPhiTBgQB2Qj1ffZntzbPDGzii1PzRWqUVAbbCSid",
+        "eventSeq": "0"
+      },
+      "endEpoch": 1
+    }
+  },
+  "five-of-cups": {
+    "type": "alreadyCertified",
+    "data": {
+      "blobId": "8Xgjsmc9VMhzHq9nLO-G-y9b4vnF0Msr9pFLkNF3YJM",
+      "event": {
+        "txDigest": "E46cPkb5uzZQUx7sZdiQDFGAdbHbFWL1CChh6amGMDbc",
+        "eventSeq": "0"
+      },
+      "endEpoch": 1
+    }
+  },
+  "five-of-pentacles": {
+    "type": "alreadyCertified",
+    "data": {
+      "blobId": "AXRle-fKUYvtbXbfL2enMLg0PFfxrs_EFxUrUP2fi4A",
+      "event": {
+        "txDigest": "6BikwXEdc3otiw8dCSfGGBFrNB9UvRL7eD1UPkQNQAXq",
+        "eventSeq": "0"
+      },
+      "endEpoch": 1
+    }
+  },
+  "five-of-swords": {
+    "type": "alreadyCertified",
+    "data": {
+      "blobId": "pbHlbahbP4-V09falcXgYrdL8ejk_X8bx7LfbJ1gKmA",
+      "event": {
+        "txDigest": "EF5SQJN8vh3HJiLC7dc9FnHTo1pDpESsdBaQVM1BwjT9",
+        "eventSeq": "0"
+      },
+      "endEpoch": 1
+    }
+  },
+  "five-of-wands": {
+    "type": "alreadyCertified",
+    "data": {
+      "blobId": "DCEdR4zDcu7n1DP3ObIYk5a1yy8E_VQyw9qzTk4sldE",
+      "event": {
+        "txDigest": "Bs7HR4KX82jw7XpgNznfbpG4txg4Pc5n5NmQdKy9v4Mh",
+        "eventSeq": "0"
+      },
+      "endEpoch": 1
+    }
+  },
+  "four-of-cups": {
+    "type": "alreadyCertified",
+    "data": {
+      "blobId": "0c2e7PDRirk8fsUur5qoX56zvkbRm4-vT7rOMMKBmI0",
+      "event": {
+        "txDigest": "J3P1PVy9Cav7KaYNJzkhiK42pcrxQp2otDZ6f8PokBVF",
+        "eventSeq": "0"
+      },
+      "endEpoch": 1
+    }
+  },
+  "four-of-pentacles": {
+    "type": "alreadyCertified",
+    "data": {
+      "blobId": "C8_I4jrx5Kr6oB1buVzg4tMADC_hTcSIh8YKB0YGGkk",
+      "event": {
+        "txDigest": "3g3aLDdSoQP4gHzpzpyktGZabm49cfP1NFQ2asuno3Di",
+        "eventSeq": "0"
+      },
+      "endEpoch": 1
+    }
+  },
+  "four-of-swords": {
+    "type": "alreadyCertified",
+    "data": {
+      "blobId": "9cfdAgp2wIn5gavPGHVRElBphM-b5s6hkt6dpe2Embg",
+      "event": {
+        "txDigest": "6AqhTwiiULCDNgPD1Knur1hDabZfGWYwuWGWvvuNwTuw",
+        "eventSeq": "0"
+      },
+      "endEpoch": 1
+    }
+  },
+  "four-of-wands": {
+    "type": "alreadyCertified",
+    "data": {
+      "blobId": "rE4SxNuho-77Eo5mahw7KWo52vsFWb-UVv608c4vyRo",
+      "event": {
+        "txDigest": "D1PoosncgeMFRZf1ezLK1QxHsor1jagCp7x9o2ouZy3z",
+        "eventSeq": "0"
+      },
+      "endEpoch": 1
+    }
+  },
+  "judgement": {
+    "type": "alreadyCertified",
+    "data": {
+      "blobId": "nspHgyTfsm_oAIGtpX-2RHh4Rhnh-FNdamLu8eKywvw",
+      "event": {
+        "txDigest": "Ds9AodLdwAoc9KZj3PeCLRPBhm8UnSNy9SQiv9GjCcVe",
+        "eventSeq": "0"
+      },
+      "endEpoch": 1
+    }
+  },
+  "justice": {
+    "type": "alreadyCertified",
+    "data": {
+      "blobId": "PCwfH5sruZ3tgq2xzvtq7ZlBVcUyO3coQgic148A-a0",
+      "event": {
+        "txDigest": "7KcM1NiBJzbLPWj2b8pVEDa8QLdDdYsNeJ57FfxvLjZ",
+        "eventSeq": "0"
+      },
+      "endEpoch": 1
+    }
+  },
+  "king-of-cups": {
+    "type": "alreadyCertified",
+    "data": {
+      "blobId": "lPCDUC-ChpXAxlsmu_Jl04BB-kG_Ch3__lO4p4vXOMc",
+      "event": {
+        "txDigest": "9LqyPtj9HP3cQFEqesykMLtHaaVwXwvxjxJCcR9kE7SZ",
+        "eventSeq": "0"
+      },
+      "endEpoch": 1
+    }
+  },
+  "king-of-pentacles": {
+    "type": "alreadyCertified",
+    "data": {
+      "blobId": "mDpkImMgMlHaQACyQiOO1DaVjrw5bHqaJp0bvI959sU",
+      "event": {
+        "txDigest": "G1PWYfV72EtzCjDcFF5EtmWsBjGzRhVKsRzZPKjJZ1Fs",
+        "eventSeq": "0"
+      },
+      "endEpoch": 1
+    }
+  },
+  "king-of-swords": {
+    "type": "alreadyCertified",
+    "data": {
+      "blobId": "2JYNHSSkV-8CRas4PNdrDnenXCgqOCedKbfpgKGO7w4",
+      "event": {
+        "txDigest": "2qFfz8hzuMqkhJ8CMtewCUmbCSYQN1sQD5g3yfvQhRf4",
+        "eventSeq": "0"
+      },
+      "endEpoch": 1
+    }
+  },
+  "king-of-wands": {
+    "type": "alreadyCertified",
+    "data": {
+      "blobId": "rh0KOaYWsVbobhD9FDpf4WRyNMs9MxifY1wZmLsDQis",
+      "event": {
+        "txDigest": "8MgXyrJ6BRbypKfvbR2paopvD3fRQ4kvBPmbv77gpUTL",
+        "eventSeq": "0"
+      },
+      "endEpoch": 1
+    }
+  },
+  "knight-of-cups": {
+    "type": "alreadyCertified",
+    "data": {
+      "blobId": "aHBdj5J-sm1FmrB4p3X2Jgs89HWU2n0DnFS3nhX8xTY",
+      "event": {
+        "txDigest": "6qsnuVqPzM76x425BNt31sjKqndNiYCHvHmy9qKNVac",
+        "eventSeq": "0"
+      },
+      "endEpoch": 1
+    }
+  },
+  "knight-of-pentacles": {
+    "type": "alreadyCertified",
+    "data": {
+      "blobId": "I2nI5Yn4MAJ4iS2roX8kcH4Wy9JoaizJG8kcCsrK9z8",
+      "event": {
+        "txDigest": "6TF4ZbmZSHS76ic1UqBnwrJQtjpyZ7aKHGcxeYjKasfo",
+        "eventSeq": "0"
+      },
+      "endEpoch": 1
+    }
+  },
+  "knight-of-swords": {
+    "type": "alreadyCertified",
+    "data": {
+      "blobId": "40a0v3B-_AiFSrmoRpht8p2AIBdPpqHvOXyhssY7YpI",
+      "event": {
+        "txDigest": "htvGdD67wgGPnzFpJzzpGMqWgf9gPvt1TvufgeoTxTs",
+        "eventSeq": "0"
+      },
+      "endEpoch": 1
+    }
+  },
+  "knight-of-wands": {
+    "type": "alreadyCertified",
+    "data": {
+      "blobId": "OZsFTTTM-gwWF59ZGzsuDpAvvfwVkRskZtw-PrD_FV4",
+      "event": {
+        "txDigest": "Chfcj9ESGn1HjSNE9QvsgppnMbnV1HjxNjBm3trjJBc4",
+        "eventSeq": "0"
+      },
+      "endEpoch": 1
+    }
+  },
+  "nine-of-cups": {
+    "type": "alreadyCertified",
+    "data": {
+      "blobId": "yHnRyvDSTrZktCNMVf9gPT86LlCNtRk8uD9ndGjG2Ss",
+      "event": {
+        "txDigest": "GZdJ4WvpViyvZhSy1H7w655jkyLCCya1fNrggzfqqYbA",
+        "eventSeq": "0"
+      },
+      "endEpoch": 1
+    }
+  },
+  "nine-of-pentacles": {
+    "type": "alreadyCertified",
+    "data": {
+      "blobId": "wAM_89JY_4Qy21ARKKNu-6DFY4XJwzGGspwGGdcvBME",
+      "event": {
+        "txDigest": "yHw5W87dWS8CeWy7VtYsTsaExeTNWxDtHdt6f6MECV6",
+        "eventSeq": "0"
+      },
+      "endEpoch": 1
+    }
+  },
+  "nine-of-swords": {
+    "type": "alreadyCertified",
+    "data": {
+      "blobId": "1dcNjjhWiH8ynRjBb1lBppiJjPxiaDShxq0bk5EHdgo",
+      "event": {
+        "txDigest": "63KXUcwsycGmDzzBo8faqy2BsNQdqir8sn6DY6C6pa86",
+        "eventSeq": "0"
+      },
+      "endEpoch": 1
+    }
+  },
+  "nine-of-wands": {
+    "type": "alreadyCertified",
+    "data": {
+      "blobId": "KVJNrAQvV6wKRfZdH6MCv984irpGwD12bPoe6Dxjfy8",
+      "event": {
+        "txDigest": "sE8f2BJfZwaaY8PVsFjeEVmQB63h7qroGRbGH2NTbCb",
+        "eventSeq": "0"
+      },
+      "endEpoch": 1
+    }
+  },
+  "page-of-cups": {
+    "type": "alreadyCertified",
+    "data": {
+      "blobId": "x5hfZz4HSz73vjghsIfxUje0eUjiUCuyr8IEu4SJmE8",
+      "event": {
+        "txDigest": "6cddoJ2KJ8D6bhkKQSJmeKoTocgp1JNQUUi4WeXYkHnC",
+        "eventSeq": "0"
+      },
+      "endEpoch": 1
+    }
+  },
+  "page-of-pentacles": {
+    "type": "alreadyCertified",
+    "data": {
+      "blobId": "BRSCJD1yZPdckxyMEg-z3W4Oryvr-UZirXqye7AzPJ0",
+      "event": {
+        "txDigest": "3zbjGWWzzkJC48kA8bJyxrkaRm6xWpUcVh3DPDP4rC5N",
+        "eventSeq": "0"
+      },
+      "endEpoch": 1
+    }
+  },
+  "page-of-swords": {
+    "type": "alreadyCertified",
+    "data": {
+      "blobId": "rHs3hF8Qcf9eGI-npVGr_Nm-wLjQQ71MuByURH5r5zI",
+      "event": {
+        "txDigest": "ABgWPx3SmikCDiy4U5MXhHcnhXdyhWVso4jcfiMiNk9C",
+        "eventSeq": "0"
+      },
+      "endEpoch": 1
+    }
+  },
+  "page-of-wands": {
+    "type": "alreadyCertified",
+    "data": {
+      "blobId": "qjocc3Tc-gt88BaSAV6zp1wFcfAM6Oynfmbw6ttyDt0",
+      "event": {
+        "txDigest": "7YeoHqYLDuY1w5tvXqwvtZ1CSriYqWztrVWxBK9wtK1J",
+        "eventSeq": "0"
+      },
+      "endEpoch": 1
+    }
+  },
+  "queen-of-cups": {
+    "type": "alreadyCertified",
+    "data": {
+      "blobId": "C22R2hNHkXGrQZ6nOpoznu4IIVLBgFGnfetee0Fic2M",
+      "event": {
+        "txDigest": "DSCR4Pwu2fo54aa71gpYQcDogLY1vdHoDFxJJ1uAVoFw",
+        "eventSeq": "0"
+      },
+      "endEpoch": 1
+    }
+  },
+  "queen-of-pentacles": {
+    "type": "alreadyCertified",
+    "data": {
+      "blobId": "hmfhD30yFiLSpWdtbx6VpWrFhIhk8XzW46rU7UOgtxI",
+      "event": {
+        "txDigest": "34toTXNB9hsCLoCr3joRDUx5abbdCSHhKZsW8GfNejxF",
+        "eventSeq": "0"
+      },
+      "endEpoch": 1
+    }
+  },
+  "queen-of-swords": {
+    "type": "alreadyCertified",
+    "data": {
+      "blobId": "rqSqkruqureCZKetTrIbn4HZTw-PTry2wNKt5M999rw",
+      "event": {
+        "txDigest": "CR5CaApo1fD8aXranxVAWJCKFiwVdmkpMYbb6USLtUon",
+        "eventSeq": "0"
+      },
+      "endEpoch": 1
+    }
+  },
+  "queen-of-wands": {
+    "type": "alreadyCertified",
+    "data": {
+      "blobId": "VRqOWCeoG1Nc_bom-4VDVFaZIDnveovH9q8TL4XEBZw",
+      "event": {
+        "txDigest": "BCVtSCZ1HKsEew1fFDdCzffXacGz2uuQq7jyis2oNiR3",
+        "eventSeq": "0"
+      },
+      "endEpoch": 1
+    }
+  },
+  "seven-of-cups": {
+    "type": "alreadyCertified",
+    "data": {
+      "blobId": "Ym3jBP4Wc6UMyxXYDvy45rb1AMO_PZ0qJ60vcqCKPmc",
+      "event": {
+        "txDigest": "ETnRk4trtPxZHAqoDHAVYiQtDVzvbRhB3gjwJ9vPsSKZ",
+        "eventSeq": "0"
+      },
+      "endEpoch": 1
+    }
+  },
+  "seven-of-pentacles": {
+    "type": "alreadyCertified",
+    "data": {
+      "blobId": "FHOcv8Sv97iZ-4pQs0h65ao6BAmHo6Bh1JCoT5D9gN4",
+      "event": {
+        "txDigest": "CDmAds6JA9TxduUbZTe76k7Qc2aGeKQEAQVBakvPCnrQ",
+        "eventSeq": "0"
+      },
+      "endEpoch": 1
+    }
+  },
+  "seven-of-swords": {
+    "type": "alreadyCertified",
+    "data": {
+      "blobId": "yj3t6qXFCD8m_NAOHPsvHEp2IZoPFWQuZ8ZV4ZsHQsU",
+      "event": {
+        "txDigest": "DbSbrnPdyBseASASdtnag4uS3cVy56x1WcWGuDoNZ9BF",
+        "eventSeq": "0"
+      },
+      "endEpoch": 1
+    }
+  },
+  "seven-of-wands": {
+    "type": "alreadyCertified",
+    "data": {
+      "blobId": "MWzI-BO9r2e5Jyn06eXxHtb_ac3EnwIApfvsDWOkZLg",
+      "event": {
+        "txDigest": "D77A1QxErEKzKfjT8Bpt4EKUa32CfWmtfXGSf2HNKTMy",
+        "eventSeq": "0"
+      },
+      "endEpoch": 1
+    }
+  },
+  "six-of-cups": {
+    "type": "newlyCreated",
+    "data": {
+      "blobObject": {
+        "id": "0x5d34a89eed51436b0ab34be92394f0b4e6373ffb528b0e64ebb1d90e1987048d",
+        "storedEpoch": 0,
+        "blobId": "GTFvGhN1NCPCntko8EKEJuXPE50oebkXb29isMB3jsw",
+        "size": 304780,
+        "erasureCodeType": "RedStuff",
+        "certifiedEpoch": 0,
+        "storage": {
+          "id": "0x99c9c72a92a966209f649061690b0ce497b5ab2acd2a5d76e30c3d94b562fe68",
+          "startEpoch": 0,
+          "endEpoch": 1,
+          "storageSize": 66014000
+        }
+      },
+      "encodedSize": 66014000,
+      "cost": 3223350
+    }
+  },
+  "six-of-pentacles": {
+    "type": "newlyCreated",
+    "data": {
+      "blobObject": {
+        "id": "0x958b8be218395faeb4ad46f296c0f79c04f8e2f775cc50e7b8bdaa8ac83d4969",
+        "storedEpoch": 0,
+        "blobId": "W8qbLkhX0epUh4D0sr1hCABTt6gG3rNMJw7qUAaSyGQ",
+        "size": 256086,
+        "erasureCodeType": "RedStuff",
+        "certifiedEpoch": 0,
+        "storage": {
+          "id": "0x0888c2cabd11026f83ed686a92eacac7b2022c0102d1d7fa5417de5f1ecd441a",
+          "startEpoch": 0,
+          "endEpoch": 1,
+          "storageSize": 66014000
+        }
+      },
+      "encodedSize": 66014000,
+      "cost": 3223350
+    }
+  },
+  "six-of-swords": {
+    "type": "newlyCreated",
+    "data": {
+      "blobObject": {
+        "id": "0x439fb5bcf77f88b4eab0e03077fe834f89e734cd8cef359a79413f9d1e211ce8",
+        "storedEpoch": 0,
+        "blobId": "Kdr3WxQ7wsX-TSM1LkNfOPtiaG81BQLagmudHHUUX_g",
+        "size": 257325,
+        "erasureCodeType": "RedStuff",
+        "certifiedEpoch": 0,
+        "storage": {
+          "id": "0x95c3a877e700aaed54bfc25fed5da55b2b36cb84fd870983f9bc11e4475dc4b5",
+          "startEpoch": 0,
+          "endEpoch": 1,
+          "storageSize": 66014000
+        }
+      },
+      "encodedSize": 66014000,
+      "cost": 3223350
+    }
+  },
+  "six-of-wands": {
+    "type": "newlyCreated",
+    "data": {
+      "blobObject": {
+        "id": "0x5cfe0f8ebfd0d64de62dfafcca0ed7e631a6a26a5830128b9f9f64eed88bf902",
+        "storedEpoch": 0,
+        "blobId": "wq0jFQ4SYJJ6Dgmp6S2QfkPl1hmzIHubUR95CLtkS-0",
+        "size": 274230,
+        "erasureCodeType": "RedStuff",
+        "certifiedEpoch": 0,
+        "storage": {
+          "id": "0xa81ae621da5734b35bc0524cac18b1babfd2d65606033b6073e277a729a73b2f",
+          "startEpoch": 0,
+          "endEpoch": 1,
+          "storageSize": 66014000
+        }
+      },
+      "encodedSize": 66014000,
+      "cost": 3223350
+    }
+  },
+  "strength": {
+    "type": "newlyCreated",
+    "data": {
+      "blobObject": {
+        "id": "0xad5836c0c05017baeb0a5701103fe30f30bd76c58345c7f1bf21a20be47e8202",
+        "storedEpoch": 0,
+        "blobId": "3gj_tk7v0TNfKrYUImBQWH0cktP1Nu289s06dPL5MeU",
+        "size": 450160,
+        "erasureCodeType": "RedStuff",
+        "certifiedEpoch": 0,
+        "storage": {
+          "id": "0x773b7ea0ccd19f5fbd8fe55127a1b63b68887ebbc3c7cb83d7139c4d5ac55d15",
+          "startEpoch": 0,
+          "endEpoch": 1,
+          "storageSize": 67005000
+        }
+      },
+      "encodedSize": 67005000,
+      "cost": 3271750
+    }
+  },
+  "temperance": {
+    "type": "newlyCreated",
+    "data": {
+      "blobObject": {
+        "id": "0xd283026dca6ca69a4085fd4994117026e5bb7269e28459e3f084e0bcb03304fa",
+        "storedEpoch": 0,
+        "blobId": "1Gusq8qVFcUuUl2FowyPXgdN-1bssBoMxYJ1elHl58w",
+        "size": 536265,
+        "erasureCodeType": "RedStuff",
+        "certifiedEpoch": 0,
+        "storage": {
+          "id": "0xb02504525f28f618f6ede6426ec9614922482f5dae603aee88e364332b21ae9c",
+          "startEpoch": 0,
+          "endEpoch": 1,
+          "storageSize": 67005000
+        }
+      },
+      "encodedSize": 67005000,
+      "cost": 3271750
+    }
+  },
+  "ten-of-cups": {
+    "type": "newlyCreated",
+    "data": {
+      "blobObject": {
+        "id": "0x2c4dd6b0a8e41bcc556c4f2ac137e683772639db37ea7b0f922133aa37ffe184",
+        "storedEpoch": 0,
+        "blobId": "N9KfUzizmMmLqC9fNPbQxZf7HbxRsupC8F4oS2mmbF8",
+        "size": 269864,
+        "erasureCodeType": "RedStuff",
+        "certifiedEpoch": 0,
+        "storage": {
+          "id": "0x709f1f374226d73ff8d672c47f5ef353309cc86a4689c00d2cb4ee961333c8e1",
+          "startEpoch": 0,
+          "endEpoch": 1,
+          "storageSize": 66014000
+        }
+      },
+      "encodedSize": 66014000,
+      "cost": 3223350
+    }
+  },
+  "ten-of-pentacles": {
+    "type": "newlyCreated",
+    "data": {
+      "blobObject": {
+        "id": "0x8b67c53b8f46d991afbd3eb55f91b40b59b99abb44963d8c1296a79b4a2dc736",
+        "storedEpoch": 0,
+        "blobId": "MahxDQuslXj4KBqjd3tCQ_Qj_dDO97Mc43BYVubZFhQ",
+        "size": 327864,
+        "erasureCodeType": "RedStuff",
+        "certifiedEpoch": 0,
+        "storage": {
+          "id": "0x992e2b0a5e7b933889ee34c385e5ca18ac2e2f79e5c68a06aed842855e88fa18",
+          "startEpoch": 0,
+          "endEpoch": 1,
+          "storageSize": 66014000
+        }
+      },
+      "encodedSize": 66014000,
+      "cost": 3223350
+    }
+  },
+  "ten-of-swords": {
+    "type": "newlyCreated",
+    "data": {
+      "blobObject": {
+        "id": "0xdfe97d73dc7d1717e8f301dba26ef1ef0848f960403b3ef74ead89b9c876eedd",
+        "storedEpoch": 0,
+        "blobId": "v8-d4OYGrrLJNrZ2s3cwzpQ0wRsn8RloDWJO0eQLoJ8",
+        "size": 243369,
+        "erasureCodeType": "RedStuff",
+        "certifiedEpoch": 0,
+        "storage": {
+          "id": "0xb96811675a6b1d89dd28ab755d537090db320e9ae534f1a4772ef671b786efcf",
+          "startEpoch": 0,
+          "endEpoch": 1,
+          "storageSize": 66014000
+        }
+      },
+      "encodedSize": 66014000,
+      "cost": 3223350
+    }
+  },
+  "ten-of-wands": {
+    "type": "newlyCreated",
+    "data": {
+      "blobObject": {
+        "id": "0x083fedd11f119b5b6f3e16c476ee72913ca5bd393754f9cd33ff0cf1f24be93d",
+        "storedEpoch": 0,
+        "blobId": "0ggFSIGuz49vqSLqhi3Kas_6PrtNylmq0Rmyc-qbMxY",
+        "size": 260132,
+        "erasureCodeType": "RedStuff",
+        "certifiedEpoch": 0,
+        "storage": {
+          "id": "0xf95a78bfcc0af52be00571919093d5001532fd137b7f044e18b3bc722d4ad043",
+          "startEpoch": 0,
+          "endEpoch": 1,
+          "storageSize": 66014000
+        }
+      },
+      "encodedSize": 66014000,
+      "cost": 3223350
+    }
+  },
+  "the-chariot": {
+    "type": "newlyCreated",
+    "data": {
+      "blobObject": {
+        "id": "0x41619508aaa934f474e1586a700fc9862894ea1fff7289ebc88d21cb0027ce30",
+        "storedEpoch": 0,
+        "blobId": "wWAzrsNGQ-lzQWj4zmCJcR5npTTIt_qB2Y7QIJ6tVkQ",
+        "size": 499312,
+        "erasureCodeType": "RedStuff",
+        "certifiedEpoch": 0,
+        "storage": {
+          "id": "0x31d4c7d6873ea92892997fb079a6467c948c199943d730102471227544347161",
+          "startEpoch": 0,
+          "endEpoch": 1,
+          "storageSize": 67005000
+        }
+      },
+      "encodedSize": 67005000,
+      "cost": 3271750
+    }
+  },
+  "the-devil": {
+    "type": "newlyCreated",
+    "data": {
+      "blobObject": {
+        "id": "0x1123937c84c48eb25212e3cda93def80f7bda105710f951d99a9883f1c43b991",
+        "storedEpoch": 0,
+        "blobId": "uhezEfpFpO4N7x0RTOH_psb2B8oq57TMFqMk1fTci4I",
+        "size": 464598,
+        "erasureCodeType": "RedStuff",
+        "certifiedEpoch": 0,
+        "storage": {
+          "id": "0x9b7e1f1a662cee684c6c6bc9edb945a7ffe311192643b9a8acab9f042de0cce8",
+          "startEpoch": 0,
+          "endEpoch": 1,
+          "storageSize": 67005000
+        }
+      },
+      "encodedSize": 67005000,
+      "cost": 3271750
+    }
+  },
+  "the-emperor": {
+    "type": "newlyCreated",
+    "data": {
+      "blobObject": {
+        "id": "0x5724625300e599b5c4d505750a13725c785d99ff64498b1c7ce0e3d812899457",
+        "storedEpoch": 0,
+        "blobId": "wFk3Dx1UGvuwTS1Ef96WTkedInRdj9jTRL1zcyppA48",
+        "size": 550587,
+        "erasureCodeType": "RedStuff",
+        "certifiedEpoch": 0,
+        "storage": {
+          "id": "0x940d103b4eccfb22852a22ce0bae2fc411df8af03e1b55f8786d0c110e38f44a",
+          "startEpoch": 0,
+          "endEpoch": 1,
+          "storageSize": 67005000
+        }
+      },
+      "encodedSize": 67005000,
+      "cost": 3271750
+    }
+  },
+  "the-empress": {
+    "type": "newlyCreated",
+    "data": {
+      "blobObject": {
+        "id": "0x889986238f665f821c70a24ea4049291cb0bb0ee52d99d5a8e4e8e356b141a20",
+        "storedEpoch": 0,
+        "blobId": "p2w5mDijtnIL_QTPjyOwhqI10jPuh2iyEGyPvMkgORo",
+        "size": 560049,
+        "erasureCodeType": "RedStuff",
+        "certifiedEpoch": 0,
+        "storage": {
+          "id": "0xb4c36cf0762912325a3eb55246e6d21e5863ca03cdb960491dc99996ae967b95",
+          "startEpoch": 0,
+          "endEpoch": 1,
+          "storageSize": 67005000
+        }
+      },
+      "encodedSize": 67005000,
+      "cost": 3271750
+    }
+  },
+  "the-fool": {
+    "type": "newlyCreated",
+    "data": {
+      "blobObject": {
+        "id": "0x62b2b2997d0374df7eb9002c3ee475fa9a921ebca5155d2834f5b8744c9dc3c5",
+        "storedEpoch": 0,
+        "blobId": "MTnS3Kx-KenPOFfZPDAgexJTUqwwVQEF9o0jn8twzxc",
+        "size": 480868,
+        "erasureCodeType": "RedStuff",
+        "certifiedEpoch": 0,
+        "storage": {
+          "id": "0xd819765199ef330f0feab69e43dee3bda6c77c10405b1fa70c06b48f19f31926",
+          "startEpoch": 0,
+          "endEpoch": 1,
+          "storageSize": 67005000
+        }
+      },
+      "encodedSize": 67005000,
+      "cost": 3271750
+    }
+  },
+  "the-hanged-man": {
+    "type": "newlyCreated",
+    "data": {
+      "blobObject": {
+        "id": "0xa0bf8c435ad3f1a52bf4842455ebf38a2a10d080dfe465f15543c55c1778d17f",
+        "storedEpoch": 0,
+        "blobId": "TFd5G6R78zRLekFXZ_LxfkjK2l-1tXKQxdg9OtjK6Ec",
+        "size": 447726,
+        "erasureCodeType": "RedStuff",
+        "certifiedEpoch": 0,
+        "storage": {
+          "id": "0x13b54e424fdae425023f973dce82884c17367d830cf1eaa78cba4cd44e5bfe96",
+          "startEpoch": 0,
+          "endEpoch": 1,
+          "storageSize": 67005000
+        }
+      },
+      "encodedSize": 67005000,
+      "cost": 3271750
+    }
+  },
+  "the-hermit": {
+    "type": "newlyCreated",
+    "data": {
+      "blobObject": {
+        "id": "0x1abce83dced3c7c7dfb40c516fa4025617fd5e5ae7710450305a726dc7c46f42",
+        "storedEpoch": 0,
+        "blobId": "bRgSUtmV-fhyFEKgzjex6XZrp0p8qXS6J5l_hj11goE",
+        "size": 360212,
+        "erasureCodeType": "RedStuff",
+        "certifiedEpoch": 0,
+        "storage": {
+          "id": "0xb1b21d12a1b46ee3a2f0e31e27528ad694a236ae7648d5245056cf070f724f8e",
+          "startEpoch": 0,
+          "endEpoch": 1,
+          "storageSize": 66014000
+        }
+      },
+      "encodedSize": 66014000,
+      "cost": 3223350
+    }
+  },
+  "the-hierophant": {
+    "type": "newlyCreated",
+    "data": {
+      "blobObject": {
+        "id": "0x59de7551a8bb597aef3a4e96aa61fc3086c87acc7e6f727ea8ad94e9523be987",
+        "storedEpoch": 0,
+        "blobId": "8FAKxNbyZjG2LQshEfmiiH8yumw_59D4QxWiX6P7S2A",
+        "size": 531517,
+        "erasureCodeType": "RedStuff",
+        "certifiedEpoch": 0,
+        "storage": {
+          "id": "0x17613d137a0827eb9ed95a5cda9e6b13caf55c73c157c4e28bea74ab16b25a99",
+          "startEpoch": 0,
+          "endEpoch": 1,
+          "storageSize": 67005000
+        }
+      },
+      "encodedSize": 67005000,
+      "cost": 3271750
+    }
+  },
+  "the-high-priestess": {
+    "type": "newlyCreated",
+    "data": {
+      "blobObject": {
+        "id": "0x1c575269b5bbfdd861f7b627c308c35dcd72155555eb3c1147b8d6676aa6e580",
+        "storedEpoch": 0,
+        "blobId": "9FaMP96ect8doJjDhhAUH4aJoayM-C7cU-rZpgcXb6s",
+        "size": 483869,
+        "erasureCodeType": "RedStuff",
+        "certifiedEpoch": 0,
+        "storage": {
+          "id": "0x31ebff51ad464ff247fbd54e09b686c90dc4dc80f833f25f51a16e977db43c55",
+          "startEpoch": 0,
+          "endEpoch": 1,
+          "storageSize": 67005000
+        }
+      },
+      "encodedSize": 67005000,
+      "cost": 3271750
+    }
+  },
+  "the-lovers": {
+    "type": "newlyCreated",
+    "data": {
+      "blobObject": {
+        "id": "0x3c48dd66ce9758474cfb5d1322a4937b50eac57b2cb70f71eeda82b7b39ca3ea",
+        "storedEpoch": 0,
+        "blobId": "eGsQ0r8DRARmr9YT6S3XXpzoTaPnyYAmTPWrIghBb_c",
+        "size": 558758,
+        "erasureCodeType": "RedStuff",
+        "certifiedEpoch": 0,
+        "storage": {
+          "id": "0x5fb28e34b4c5f704b6c78bc5be7a279deb91f5e77411db39ffd09d6ef4b6ba9b",
+          "startEpoch": 0,
+          "endEpoch": 1,
+          "storageSize": 67005000
+        }
+      },
+      "encodedSize": 67005000,
+      "cost": 3271750
+    }
+  },
+  "the-magician": {
+    "type": "newlyCreated",
+    "data": {
+      "blobObject": {
+        "id": "0x33c973383b0189aa4581d1f59277b3aaead74bc6c368de48440cf2487816d2df",
+        "storedEpoch": 0,
+        "blobId": "sqACsFePZmOuAigd8kFujfKVYcN-WaHDOt8L27i_Yqc",
+        "size": 496285,
+        "erasureCodeType": "RedStuff",
+        "certifiedEpoch": 0,
+        "storage": {
+          "id": "0xb74972ae952d53c04334ed483e06a87c5f2d471f8c7fb57e8926268140807cd8",
+          "startEpoch": 0,
+          "endEpoch": 1,
+          "storageSize": 67005000
+        }
+      },
+      "encodedSize": 67005000,
+      "cost": 3271750
+    }
+  },
+  "the-moon": {
+    "type": "newlyCreated",
+    "data": {
+      "blobObject": {
+        "id": "0xbde7ec6e084d120d2016766c7e0dc09947215488201748717c730a8f6e34b2fb",
+        "storedEpoch": 0,
+        "blobId": "F_m8a_2di4Zx40juZ09zYEV1cTcD3_THfd4pBafjZX8",
+        "size": 496963,
+        "erasureCodeType": "RedStuff",
+        "certifiedEpoch": 0,
+        "storage": {
+          "id": "0x12d1a4fbde48feb493148a6fc0832057f46f47a9c2d64b17f820a9a9168b26bf",
+          "startEpoch": 0,
+          "endEpoch": 1,
+          "storageSize": 67005000
+        }
+      },
+      "encodedSize": 67005000,
+      "cost": 3271750
+    }
+  },
+  "the-star": {
+    "type": "newlyCreated",
+    "data": {
+      "blobObject": {
+        "id": "0xad48bb65d0c6462f165dd1b4a9db40ccf38c7e43ef27a4046ae118c7c5323154",
+        "storedEpoch": 0,
+        "blobId": "dFA6Mg8oOqwR-3OIE8WtOaqJgjeFoLZnDiUJVUeVXT0",
+        "size": 489804,
+        "erasureCodeType": "RedStuff",
+        "certifiedEpoch": 0,
+        "storage": {
+          "id": "0x5005f4cd727cd6ad44e2efb589778a2efbc099bf2c7f1b661468ab51bc78b1db",
+          "startEpoch": 0,
+          "endEpoch": 1,
+          "storageSize": 67005000
+        }
+      },
+      "encodedSize": 67005000,
+      "cost": 3271750
+    }
+  },
+  "the-sun": {
+    "type": "newlyCreated",
+    "data": {
+      "blobObject": {
+        "id": "0xc910494b8af1cbd20ec7f76914ec8355b7c11e70d376619a23d782d399f7a3db",
+        "storedEpoch": 0,
+        "blobId": "JMk8ak-vY1SIoNHHLr9FrKDfHaku5l6q00uZ10IiPfI",
+        "size": 564329,
+        "erasureCodeType": "RedStuff",
+        "certifiedEpoch": 0,
+        "storage": {
+          "id": "0x885773a201f2f4ccce7744f403981dee026cddafc8c6fcaa2db4a6dd60d03431",
+          "startEpoch": 0,
+          "endEpoch": 1,
+          "storageSize": 67005000
+        }
+      },
+      "encodedSize": 67005000,
+      "cost": 3271750
+    }
+  },
+  "the-tower": {
+    "type": "newlyCreated",
+    "data": {
+      "blobObject": {
+        "id": "0xf4adb340792bc8ca5b37bf254ba674bfa10b3630d4bca174ecd62f71881abbbc",
+        "storedEpoch": 0,
+        "blobId": "UFg1wqodeN5FAA2UanVITg77TLoujPxhqOSu9zTfQrQ",
+        "size": 460666,
+        "erasureCodeType": "RedStuff",
+        "certifiedEpoch": 0,
+        "storage": {
+          "id": "0x7b13fb3101387dc8034543439149f1e42cc42db318bd3233d97250e622dc8d17",
+          "startEpoch": 0,
+          "endEpoch": 1,
+          "storageSize": 67005000
+        }
+      },
+      "encodedSize": 67005000,
+      "cost": 3271750
+    }
+  },
+  "the-world": {
+    "type": "newlyCreated",
+    "data": {
+      "blobObject": {
+        "id": "0x771589a39388cbc84f97ceb5e6ad8477735536a034553218cec53956abedb991",
+        "storedEpoch": 0,
+        "blobId": "G0C9nGsiw_1sWZYg7-ONwLJILftyHEq_kYUe7yEuAas",
+        "size": 528043,
+        "erasureCodeType": "RedStuff",
+        "certifiedEpoch": 0,
+        "storage": {
+          "id": "0x8114911e6caac80e4538e2e5756662edd0dc90edfc7570300f93b7a393f1057b",
+          "startEpoch": 0,
+          "endEpoch": 1,
+          "storageSize": 67005000
+        }
+      },
+      "encodedSize": 67005000,
+      "cost": 3271750
+    }
+  },
+  "three-of-cups": {
+    "type": "newlyCreated",
+    "data": {
+      "blobObject": {
+        "id": "0x449b7b114522facff10081c52fefa8876f627a99bdfb64bfad2f5d9f821bea7e",
+        "storedEpoch": 0,
+        "blobId": "9W14-NpZU2tZX8l3yD0Fyz3bH6ZCG2SAdsJq7E4mtaM",
+        "size": 293608,
+        "erasureCodeType": "RedStuff",
+        "certifiedEpoch": 0,
+        "storage": {
+          "id": "0x8bacbda4559adc5bbc8fc9ed7e1ee20f27080d881c320c4a32bb600b3b880a45",
+          "startEpoch": 0,
+          "endEpoch": 1,
+          "storageSize": 66014000
+        }
+      },
+      "encodedSize": 66014000,
+      "cost": 3223350
+    }
+  },
+  "three-of-pentacles": {
+    "type": "newlyCreated",
+    "data": {
+      "blobObject": {
+        "id": "0xb8685d13894792e9d529516640318b6b4a76650a5ffcdec87883a3949f8adeef",
+        "storedEpoch": 0,
+        "blobId": "xd5b_VttAy08ni4J_WT3YU_ceA4CZqAA-fsc3jsbDug",
+        "size": 282904,
+        "erasureCodeType": "RedStuff",
+        "certifiedEpoch": 0,
+        "storage": {
+          "id": "0x5204b8a06a9b64d6d114506ff0ecb2d7c7f8112e63624873cb120351df5f4a63",
+          "startEpoch": 0,
+          "endEpoch": 1,
+          "storageSize": 66014000
+        }
+      },
+      "encodedSize": 66014000,
+      "cost": 3223350
+    }
+  },
+  "three-of-swords": {
+    "type": "newlyCreated",
+    "data": {
+      "blobObject": {
+        "id": "0x6d075daecbe8f95358cc25a8455fcbe15a22ba2234bed803137f2ac90f6561f0",
+        "storedEpoch": 0,
+        "blobId": "7jHcbciTFp0my_PwtMVLV9crhrXBbkyHOOJE0vNBP8A",
+        "size": 191524,
+        "erasureCodeType": "RedStuff",
+        "certifiedEpoch": 0,
+        "storage": {
+          "id": "0xeed4dc8ccee6d0efbad1c1951b32eee73b6e6d4345aca158795ed36da55cd48e",
+          "startEpoch": 0,
+          "endEpoch": 1,
+          "storageSize": 65023000
+        }
+      },
+      "encodedSize": 65023000,
+      "cost": 3175000
+    }
+  },
+  "three-of-wands": {
+    "type": "newlyCreated",
+    "data": {
+      "blobObject": {
+        "id": "0x5c101ed941e2ea339932199a01d7fe1f1f4bd8895a6b83fb8fc935799be3f455",
+        "storedEpoch": 0,
+        "blobId": "aFKp6fFBo77tfHpjG4pZJJjYoNzmep_YRNivUuTjflw",
+        "size": 272022,
+        "erasureCodeType": "RedStuff",
+        "certifiedEpoch": 0,
+        "storage": {
+          "id": "0x6e1a4513e0e6b85467672c59e153fc2055e9a8bed6e32c09b33f2ca0598ce60e",
+          "startEpoch": 0,
+          "endEpoch": 1,
+          "storageSize": 66014000
+        }
+      },
+      "encodedSize": 66014000,
+      "cost": 3223350
+    }
+  },
+  "two-of-cups": {
+    "type": "newlyCreated",
+    "data": {
+      "blobObject": {
+        "id": "0xf6292344d37b1d6d9c9e532aa427ce38d8f393d216d833698f73b5f3ba53818f",
+        "storedEpoch": 0,
+        "blobId": "7I15GTG1dYGRv81zi8PBERAE65dXvPDVDnLHrZxAuPk",
+        "size": 263348,
+        "erasureCodeType": "RedStuff",
+        "certifiedEpoch": 0,
+        "storage": {
+          "id": "0xda03999d3c22407d337797cc46840fe38818ab45432e3ace4531302eeecae7eb",
+          "startEpoch": 0,
+          "endEpoch": 1,
+          "storageSize": 66014000
+        }
+      },
+      "encodedSize": 66014000,
+      "cost": 3223350
+    }
+  },
+  "two-of-pentacles": {
+    "type": "newlyCreated",
+    "data": {
+      "blobObject": {
+        "id": "0xfcf17d0f766cc9c898d88c30cc2d2a9d68b5ea7d93c787506ee0506d29714255",
+        "storedEpoch": 0,
+        "blobId": "Rst29bL1cZzU3Z0Lgs0Z3QGZkn09ISEt_wx9q53h_2w",
+        "size": 227563,
+        "erasureCodeType": "RedStuff",
+        "certifiedEpoch": 0,
+        "storage": {
+          "id": "0xbf588d5b9968b9a4411d0db2045ad7d1d4fcf796237e054062986a5992483d8f",
+          "startEpoch": 0,
+          "endEpoch": 1,
+          "storageSize": 66014000
+        }
+      },
+      "encodedSize": 66014000,
+      "cost": 3223350
+    }
+  },
+  "two-of-swords": {
+    "type": "newlyCreated",
+    "data": {
+      "blobObject": {
+        "id": "0x832c2e9ec57a8fe2a3c942efdd5a26284b5bbf15d589445cdc37a6a6fbe4a94d",
+        "storedEpoch": 0,
+        "blobId": "BtzhSG3IF8i-3Jx7ueO6hKGBBO-1Eu_0ePIQqKvfjMI",
+        "size": 200468,
+        "erasureCodeType": "RedStuff",
+        "certifiedEpoch": 0,
+        "storage": {
+          "id": "0x5be02c5f4bedf5e0b7f9c0eff66ab12caf0056a50c9b238bcd9703e55df831e4",
+          "startEpoch": 0,
+          "endEpoch": 1,
+          "storageSize": 65023000
+        }
+      },
+      "encodedSize": 65023000,
+      "cost": 3175000
+    }
+  },
+  "two-of-wands": {
+    "type": "newlyCreated",
+    "data": {
+      "blobObject": {
+        "id": "0xa5bc493dd068b302e8b39b2aaf817f884c8d4c375639228574bece11d6c01e14",
+        "storedEpoch": 0,
+        "blobId": "R6be02A6OHExh5luF0imIEEPUkTqq1ZD73FN7jKbd4c",
+        "size": 237287,
+        "erasureCodeType": "RedStuff",
+        "certifiedEpoch": 0,
+        "storage": {
+          "id": "0x6011a7d6ffb83eef88fc09c3000556ba22c09d65115a00d1558227995fb4146e",
+          "startEpoch": 0,
+          "endEpoch": 1,
+          "storageSize": 66014000
+        }
+      },
+      "encodedSize": 66014000,
+      "cost": 3223350
+    }
+  },
+  "wheel-of-fortune": {
+    "type": "newlyCreated",
+    "data": {
+      "blobObject": {
+        "id": "0x7bf25725dec1e1468bc127e5d45881932109008a28f7be6e7f38667b2823d6a8",
+        "storedEpoch": 0,
+        "blobId": "NmVaTFlznMZ6QCWDkwOoY8pY7q8JUf_PnvKJxLhQBbE",
+        "size": 529621,
+        "erasureCodeType": "RedStuff",
+        "certifiedEpoch": 0,
+        "storage": {
+          "id": "0xc0ae073ad5b431ae27f8b6e4d2e0003404f8e600912410457513963128c6239e",
+          "startEpoch": 0,
+          "endEpoch": 1,
+          "storageSize": 67005000
+        }
+      },
+      "encodedSize": 67005000,
+      "cost": 3271750
+    }
+  }
+}
