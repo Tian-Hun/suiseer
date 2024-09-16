@@ -31,7 +31,7 @@ export const TypewriterAnimation: React.FC<TypewriterAnimationProps> = ({ text, 
 
     useEffect(() => {
         controls.start({ opacity: 1 });
-    }, [displayedText]);
+    }, [displayedText, controls]);
 
     return (
         <motion.div

@@ -62,7 +62,7 @@ const DailyDrawPage: NextPage = () => {
     };
 
     const fetchDailyCardData = async (tarotCardId: string) => {
-        const response = await fetch(`/api/daily-cards/${tarotCardId}`);
+        const response = await fetch(`${process.env.NEXT_PUBLIC_HONO_ENDPOINT}/api/daily-cards/${tarotCardId}`);
         const data: DailyCardData = await response.json();
         setDailyCardData(data);
     };
@@ -103,8 +103,8 @@ const DailyDrawPage: NextPage = () => {
 
     return (
         <div className="w-full flex flex-col items-center justify-center relative">
-            <Image className="absolute top--300px opacity-30 z--1" src="/sunmoon.png" alt="" width={1500} height={1875} priority />
-            <div className="container w-full flex flex-col items-center justify-center gap-20px px-50px pt-100px pb-150px">
+            <Image className="absolute top--300px opacity-30 z-0" src="/sunmoon.png" alt="" width={1500} height={1875} priority />
+            <div className="container w-full flex flex-col items-center justify-center gap-20px px-50px pt-100px pb-150px relative z-2">
                 <h2 className="text-48px font-extrabold text-center bg-gradient-to-r from-#FF21FF via-#CE3EFF to-#2F89FF bg-clip-text text-transparent">
                     Card of the Day
                 </h2>

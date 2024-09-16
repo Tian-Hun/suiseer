@@ -3,7 +3,7 @@
   <br>
   <img src="./public/crystal-ball.png" alt="Markdownify" width="120">
   <br>
-  <a href="suiseer.walrus.site">
+  <a href="https://suiseer.walrus.site">
     <h3 align="center">SuiSeer</h3>
   </a>
   <br>
@@ -22,7 +22,7 @@
   SuiSeer is a decentralized application (DApp) that brings the ancient art of tarot card reading to the blockchain. Users can engage in tarot card divination and daily draws, receiving personalized insights to guide their lives. A unique feature allows users to mint their tarot reading results and daily cards as NFTs, preserving their experiences as digital collectibles. Leveraging the power of the SUI blockchain, Mystic Indication ensures fast transactions, secure identity management, and a seamless user experience. Join us on this mystical journey and discover the insights that await you!
 </h4>
 
-![screenshot](./public/screenshot.png)
+![screenshot](./docs/screenshot.png)
 
 ### Built With
 

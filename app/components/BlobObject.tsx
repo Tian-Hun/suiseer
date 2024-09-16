@@ -16,7 +16,7 @@ export const BlobObject: React.FC<ObjectHTMLAttributes<HTMLObjectElement>> = ({ 
                 setIsLoading(false);
             };
         }
-    }, []);
+    }, [onLoad]);
 
     return (
         <>

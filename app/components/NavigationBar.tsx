@@ -3,6 +3,7 @@
 import Link from 'next/link';
 import Image from 'next/image';
 import { ConnectButton } from '@mysten/dapp-kit';
+import { NetworkType } from './NetworkType';
 
 export const NavigationBar: React.FC = () => {
     return (
@@ -20,10 +21,10 @@ export const NavigationBar: React.FC = () => {
                 <Link href="/daily-draw">Daily Draw</Link>
                 <Link href="/tarot-reading">Tarot Reading</Link>
                 <Link href="/nft-gallery">NFT Gallery</Link>
-                <Link href="/profile">Profile</Link>
                 <Link href="/community">Community</Link>
 
                 <div className="flex items-center gap-20px">
+                    <NetworkType />
                     <ConnectButton />
                 </div>
             </div>

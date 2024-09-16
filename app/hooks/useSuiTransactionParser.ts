@@ -2,7 +2,7 @@ import { SuiTransactionBlockResponse } from '@mysten/sui/client';
 import { useCallback } from 'react';
 
 export const useSuiTransactionParser = () => {
-    const parseEvent = useCallback((
+    const parseEvent = useCallback(<T = string>(
         transaction: SuiTransactionBlockResponse,
         index: number = 0,
     ) => {
@@ -10,7 +10,7 @@ export const useSuiTransactionParser = () => {
             console.error(`Event at index ${index} not found for transaction.`);
             return null;
         }
-        return transaction.events[index].parsedJson as Record<string, string>;
+        return transaction.events[index].parsedJson as Record<string, T>;
     }, []);
 
     return {

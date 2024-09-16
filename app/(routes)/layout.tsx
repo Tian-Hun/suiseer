@@ -4,6 +4,7 @@ import Image from "next/image";
 
 import "@/styles/globals.css";
 import { NavigationBar } from "@/components/NavigationBar";
+import { NetworkSupportChecker} from "@/components/NetworkSupportChecker";
 import { Providers } from "@/providers";
 
 const inter = Inter({ subsets: ["latin"] });
@@ -22,6 +23,7 @@ export default function RootLayout({
         <html lang="en">
             <body className={inter.className}>
                 <Providers>
+                    <NetworkSupportChecker />
                     <NavigationBar />
                     {children}
                     <footer className="w-full flex flex-col items-center justify-center gap-20px py-60px">

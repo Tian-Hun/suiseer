@@ -1,4 +1,4 @@
-import { createNetworkConfig, NetworkConfig } from "@mysten/dapp-kit";
+import { createNetworkConfig } from "@mysten/dapp-kit";
 import { getFullnodeUrl } from "@mysten/sui/client";
 
 // Config options for the networks you want to connect to
@@ -16,7 +16,7 @@ export const { networkConfig, useNetworkVariable, useNetworkVariables } = create
         variables: {
             explorerUrl: 'https://devnet.suivision.xyz',
             packageId: process.env.NEXT_PUBLIC_DEVNET_PACKAGE_ID,
-            objectTarotOracle: process.env.NEXT_PUBLIC_DEVNET_TAROT_ORACLE,
+            objectTarotOracle: process.env.NEXT_PUBLIC_DEVNET_OBJECT_TAROT_ORACLE,
         },
     },
     testnet: {
@@ -24,7 +24,7 @@ export const { networkConfig, useNetworkVariable, useNetworkVariables } = create
         variables: {
             explorerUrl: 'https://testnet.suivision.xyz',
             packageId: process.env.NEXT_PUBLIC_TESTNET_PACKAGE_ID,
-            objectTarotOracle: process.env.NEXT_PUBLIC_TESTNET_TAROT_ORACLE,
+            objectTarotOracle: process.env.NEXT_PUBLIC_TESTNET_OBJECT_TAROT_ORACLE,
         },
     },
     mainnet: {
@@ -32,7 +32,7 @@ export const { networkConfig, useNetworkVariable, useNetworkVariables } = create
         variables: {
             explorerUrl: 'https://suivision.xyz',
             packageId: process.env.NEXT_PUBLIC_MAINNET_PACKAGE_ID,
-            objectTarotOracle: process.env.NEXT_PUBLIC_MAINNET_TAROT_ORACLE,
+            objectTarotOracle: process.env.NEXT_PUBLIC_MAINNET_OBJECT_TAROT_ORACLE,
         },
     },
 });

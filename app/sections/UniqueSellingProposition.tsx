@@ -49,7 +49,7 @@ export const UniqueSellingProposition: React.FC = () => {
                 </div>
 
                 <div className="mt-135px text-center">
-                    <Link href="/taro-reading">
+                    <Link href="/nft-gallery">
                         <div className="inline-flex items-center justify-center px-8 py-4 border border-transparent text-lg font-medium rounded-full text-indigo-900 bg-white hover:bg-indigo-50 transition duration-150 ease-in-out">
                         Start Your Tarot NFT Journey
                         </div>

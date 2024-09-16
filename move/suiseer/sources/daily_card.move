@@ -81,7 +81,7 @@ module suiseer::daily_card {
         clock: &Clock,
         random: &Random,
         ctx: &mut TxContext,
-    ): u64 {
+    ) {
         let sender = ctx.sender();
         let current_time = clock::timestamp_ms(clock);
 
@@ -105,8 +105,6 @@ module suiseer::daily_card {
             drawer: sender,
             card_id,
         });
-
-        card_id
     }
 
     public entry fun mint_tarot_nft(

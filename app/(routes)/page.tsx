@@ -34,7 +34,7 @@ const RootPage: NextPage<RootPageProps> = ({}) => {
                             Secure, Transparent, and Mystical Readings on the Sui Blockchain
                         </p>
                     </div>
-                    <Link href="/taro-reading">
+                    <Link href="/tarot-reading">
                         <GradientButton>Get a Reading</GradientButton>
                     </Link>
                 </section>
